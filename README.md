@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning: **ML/AI, Full-Stack Dev**
 
-- 💬 Ask me about: **Full-Stack Engineering**
-
 - 📫 How to reach me: **Pinkneybr@hotmail.com**
 
 - Visit my [Personal Website!](underwork currently)
@@ -31,11 +29,11 @@
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/BrandonPinkney/stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonPinkney&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="BrandonPinkney" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonPinkney&show_icons=true&theme=dark&locale=en&layout=compact" alt="BrandonPinkney" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonPinkney&show_icons=true&theme=cobalt&text_color=fbeaea&locale=en" alt="BrandonPinkney" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonPinkney&show_icons=true&theme=dark&text_color=fbeaea&locale=en" alt="BrandonPinkney" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonPinkney&theme=highcontrast" alt="BrandonPinkney" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonPinkney&theme=dark" alt="BrandonPinkney" /></p> 
 
 
 
