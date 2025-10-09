@@ -13,7 +13,7 @@
 
 - Visit my [Personal Website!](underwork currently)
 
-- ⚡ Fun fact **I'm a top 500 valorant player**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
