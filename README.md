@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrandonPinkney" alt="BrandonPinkney" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/NotNunuX" target="blank"><img src="https://img.shields.io/twitter/follow/NotNunuX?logo=twitter&style=for-the-badge" alt="NotNunuX" /></a> </p>
-
 - 🌱 I’m currently learning: **ML/AI, Full-Stack Dev**
 
 - 📫 How to reach me: **Pinkneybr@hotmail.com**
